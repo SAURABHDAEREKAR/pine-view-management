@@ -1,0 +1,6 @@
+{
+  "name": "CivicSpend - Expense Tracker & Budget Analytics",
+  "description": "Smart expense tracking with instant AI receipt scanning, monthly budget analytics, category spending breakdowns, and financial ledger management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
